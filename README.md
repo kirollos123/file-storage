@@ -24,8 +24,10 @@ This repository contains the architectural design and implementation plan for a 
 
 ## **Architecture Diagram**  
 ![Architecture Diagram](link-to-architecture-diagram.png)  
-(*Replace with an actual link to the diagram hosted in the repository.*)
 
+
+- **Implementation Documentation:**
+  The full implementation document is available [here](https://drive.google.com/file/d/1HhKBUqRj8siCpGbiBCa79zouL2je-rzU/view?usp=sharing).
 ---
 
 ## **Challenges and Solutions**  
